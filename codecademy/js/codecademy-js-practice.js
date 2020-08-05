@@ -18,3 +18,16 @@ console.log(quarterMe /= 4);
 
 /////////////
 
+let gainedDollar = 3;
+let lostDollar = 50;
+
+gainedDollar++
+console.log(gainedDollar);
+lostDollar--
+console.log(lostDollar);
+///////////////
+
+let favoriteAnimal = "Llama";
+console.log("My favorite animal: " + favoriteAnimal)
+
+//////////
