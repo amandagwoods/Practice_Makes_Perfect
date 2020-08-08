@@ -30,4 +30,11 @@ console.log(lostDollar);
 let favoriteAnimal = "Llama";
 console.log("My favorite animal: " + favoriteAnimal)
 
-//////////
+//////////String Interpolation
+var myName = "Amanda";
+var myCity = "Fort Worth";
+console.log(`My name is ${myName}. My favorite city is ${myCity}.`);
+//////typeof operator
+let newVariable = 'Playing around with typeof.';
+
+console.log(typeof newVariable);
